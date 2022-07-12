@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497786576117",
+    "firebase_url": "https://fir-cards-f9665-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-cards-f9665",
+    "storage_bucket": "fir-cards-f9665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497786576117:android:8f08dc8dd57e012ce8f9bc",
+        "android_client_info": {
+          "package_name": "com.example.firebasecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497786576117-82k8g1v4vgp27stp4vi7jt854c79ub17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAKsERkVzsOSQSNizSHcCl61FVKKzZhTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497786576117-82k8g1v4vgp27stp4vi7jt854c79ub17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
